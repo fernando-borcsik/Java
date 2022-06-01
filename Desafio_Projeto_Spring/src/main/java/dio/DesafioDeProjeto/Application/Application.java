@@ -1,9 +1,8 @@
-package dio.DesafioDeProjeto;
+package dio.DesafioDeProjeto.Application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
-import org.springframework.context.annotation.ComponentScan;
 
 /*
  Projeto Spring Boot gerado via Spring Initializr.
